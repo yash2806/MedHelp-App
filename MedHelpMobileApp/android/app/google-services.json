@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550620546869",
+    "firebase_url": "https://hospitalapp-b7f04.firebaseio.com",
+    "project_id": "hospitalapp-b7f04",
+    "storage_bucket": "hospitalapp-b7f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550620546869:android:47eb898948a6b171c5ee7c",
+        "android_client_info": {
+          "package_name": "com.sirius.hackthon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550620546869-gc959142bb5qshifg7h7kft7h0p3aorb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlHVWuKUvCN85KEJTuoEnuI8mLTm7DbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550620546869-gc959142bb5qshifg7h7kft7h0p3aorb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
