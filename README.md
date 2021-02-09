@@ -1,2 +1,2 @@
 # MedHelp-App
-### You can find the folder in master branch
+### You can find the project folder in master branch
